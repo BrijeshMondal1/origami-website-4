@@ -51,6 +51,24 @@ h1{
     
 }
 
+a:link {
+
+    color:cyan;
+
+}
+
+a:visited {
+
+    color:blue;
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+
 .origami h2 {
 
     margin-left: 150px;
