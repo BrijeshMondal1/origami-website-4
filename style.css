@@ -12,7 +12,7 @@ h1{
 }
 
   li{
-      color:red;
+      color:#ff0000;
   }
   a{
       color: royalblue;
@@ -49,6 +49,18 @@ h1{
     text-align: justify;
     font-family: fantasy;
     
+}
+
+.origami h2 {
+
+    margin-left: 150px;
+
+}
+
+.origami h3 {
+
+    margin-left: 80px;
+
 }
 
 .origamiFull img{
